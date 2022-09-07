@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        ".next": true
+    },
+    "editor.formatOnSave": false,
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.enable": true
+}
